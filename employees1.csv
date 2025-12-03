@@ -1,0 +1,10 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+David Chen,Mobile Developer,36,4.6,"Swift, Kotlin, React Native, iOS",Mobile Team,3
+Elena Popova,Backend Developer,43,4.8,"Java, Spring Boot, MySQL, Redis",API Team,4
+Chris Wilson,DevOps Engineer,39,4.7,"Docker, Jenkins, GitLab CI, AWS",Infrastructure Team,5
+Olga Kuznetsova,Frontend Developer,42,4.6,"Vue.js, JavaScript, Webpack, Sass",Web Team,3
+Robert Kim,Data Engineer,34,4.7,"Python, Apache Spark, Airflow, Kafka",Data Team,4
+Julia Martin,QA Engineer,38,4.5,"Playwright, Jest, API Testing",Testing Team,3
+Tom Anderson,Backend Developer,49,4.9,"Go, Microservices, gRPC, PostgreSQL",API Team,7
+Lisa Wang,Mobile Developer,33,4.6,"Flutter, Dart, Android, Firebase",Mobile Team,2
+Mark Thompson,Data Scientist,31,4.7,"R, Python, TensorFlow, SQL",AI Team,4
